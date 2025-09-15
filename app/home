@@ -1,0 +1,10 @@
+// File: app/page.tsx
+
+export default function HomePage() {
+  return (
+    <main style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+      <h1>Welcome to Bellavigo, your personalized AI assistant</h1>
+    </main>
+  )
+}
+
